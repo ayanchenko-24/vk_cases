@@ -1,0 +1,54 @@
+/* Файл генерируется либой fantasticicon, правки необходимо вносить в icons.css.hbs */ @font-face { font-family: "icons";
+src:
+url("./icons.eot?928963dfc8846d3ab4cd013e86c3264f#iefix") format("embedded-opentype"),
+url("./icons.woff2?928963dfc8846d3ab4cd013e86c3264f") format("woff2"),
+url("./icons.woff?928963dfc8846d3ab4cd013e86c3264f") format("woff"); } i[class^="icon-"]:before, i[class*=" icon-"]:before { font-family:
+icons
+!important; font-style: normal; font-weight: normal !important; font-variant: normal; text-transform: none; line-height:
+1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; } :root {
+    --search_outline_28: "\f101";
+    --refresh_outline_24: "\f102";
+    --open_circle_24: "\f103";
+    --messages_outline_28: "\f104";
+    --home_outline_28: "\f105";
+    --hide_circle_24: "\f106";
+    --help_circle_outline_28: "\f107";
+    --help_circle_24: "\f108";
+    --education_outline_28: "\f109";
+    --document_outline_20: "\f10a";
+    --coins_outline_28: "\f10b";
+    --clock_outline_20: "\f10c";
+    --chevron_right_outline_24: "\f10d";
+    --chevron_left_outline_24: "\f10e";
+    --chevron_down_small_24: "\f10f";
+    --chevron_compact_right_24: "\f110";
+    --cancel_outline_24: "\f111";
+    --cancel_24: "\f112";
+    --calendar_outline_20: "\f113";
+    --briefcase_outline_28: "\f114";
+    --article_outline_28: "\f115";
+    --arrow_left_outline_24: "\f116";
+}
+
+    .icon-search_outline_28:before { content: var(--search_outline_28); }
+    .icon-refresh_outline_24:before { content: var(--refresh_outline_24); }
+    .icon-open_circle_24:before { content: var(--open_circle_24); }
+    .icon-messages_outline_28:before { content: var(--messages_outline_28); }
+    .icon-home_outline_28:before { content: var(--home_outline_28); }
+    .icon-hide_circle_24:before { content: var(--hide_circle_24); }
+    .icon-help_circle_outline_28:before { content: var(--help_circle_outline_28); }
+    .icon-help_circle_24:before { content: var(--help_circle_24); }
+    .icon-education_outline_28:before { content: var(--education_outline_28); }
+    .icon-document_outline_20:before { content: var(--document_outline_20); }
+    .icon-coins_outline_28:before { content: var(--coins_outline_28); }
+    .icon-clock_outline_20:before { content: var(--clock_outline_20); }
+    .icon-chevron_right_outline_24:before { content: var(--chevron_right_outline_24); }
+    .icon-chevron_left_outline_24:before { content: var(--chevron_left_outline_24); }
+    .icon-chevron_down_small_24:before { content: var(--chevron_down_small_24); }
+    .icon-chevron_compact_right_24:before { content: var(--chevron_compact_right_24); }
+    .icon-cancel_outline_24:before { content: var(--cancel_outline_24); }
+    .icon-cancel_24:before { content: var(--cancel_24); }
+    .icon-calendar_outline_20:before { content: var(--calendar_outline_20); }
+    .icon-briefcase_outline_28:before { content: var(--briefcase_outline_28); }
+    .icon-article_outline_28:before { content: var(--article_outline_28); }
+    .icon-arrow_left_outline_24:before { content: var(--arrow_left_outline_24); }

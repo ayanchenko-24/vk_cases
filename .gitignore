@@ -1,0 +1,17 @@
+# Файлы Python
+__pycache__/
+*.pyc
+
+# Файлы проекта
+page.html
+vk_cases.json
+vk_cases.txt
+vk_cases.csv
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файлы редактора
+.vscode/
+.idea/
