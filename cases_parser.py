@@ -21,7 +21,7 @@ def normalize_date(raw: str):
         return None
     raw = " ".join(raw.strip().split())
 
-    m = re.match(r"^(\d{4})-(\d{2})-(\d{2})", raw)case
+    m = re.match(r"^(\d{4})-(\d{2})-(\d{2})", raw)
     if m:
         return f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
 
